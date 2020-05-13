@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">operacionesBasicas</string>
+    <string name="lb_titulo">Realiza operaciones basicas</string>
+    <string name="textnumero">Ingresa un numero</string>
+    <string name="btn_suma">Suma</string>
+    <string name="btn_resta">Resta</string>
+    <string name="btn_div">Divide</string>
+    <string name="btn_mul">Multiplica</string>
+</resources>
